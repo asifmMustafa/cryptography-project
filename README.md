@@ -34,7 +34,7 @@ This application requires **Node.js** (version 18 or higher) and **npm** (Node P
 
 **Option 1: Official Installer**
 
-1. Visit [nodejs.org](https://nodejs.org/)
+1. Visit [nodejs.org](http://nodejs.org/en/download)
 2. Download the **LTS** version for macOS
 3. Open the `.pkg` file and follow the installation wizard
 4. Verify installation by opening **Terminal** and running:
