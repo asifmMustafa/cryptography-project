@@ -2,6 +2,8 @@
 
 A web application for encrypting and decrypting text using classical cryptographic ciphers. Built with Next.js, React, and TypeScript, this toolkit provides an intuitive interface for experimenting with various historical encryption methods.
 
+**Live Demo:** [https://cryptography-project-721.netlify.app/](https://cryptography-project-721.netlify.app/)
+
 ## Features
 
 - **Caesar Cipher**: Simple substitution cipher with shift-based encryption
@@ -92,7 +94,7 @@ npm --version
 1. **Clone or download this repository**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/asifmMustafa/cryptography-project.git
    cd cryptography-project
    ```
 
